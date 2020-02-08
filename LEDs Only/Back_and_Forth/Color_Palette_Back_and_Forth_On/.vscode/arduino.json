@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "sketch": "Color_Palette_Back_and_Forth_On.ino",
+    "port": "/dev/cu.wchusbserial1460"
+}

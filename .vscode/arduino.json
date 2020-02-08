@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "sketch": "LEDs Only/Cycle_Modes/Smooth_Rainbow/Smooth_Rainbow.ino",
+    "port": "/dev/cu.wchusbserial1460"
+}
